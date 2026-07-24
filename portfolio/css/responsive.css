@@ -1,0 +1,258 @@
+/* ==========================================================================
+   ALEX CARTER - EDITORIAL PERSONAL PORTFOLIO WEBSITE
+   Responsive Stylesheet (responsive.css)
+   Handles device breakpoints, touch target sizing, layout adjustments
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. LARGE DESKTOPS & HIGH RESOLUTION (≥ 1400px)
+   -------------------------------------------------------------------------- */
+@media (min-width: 1400px) {
+  .hero-main-title {
+    font-size: 5.8rem;
+  }
+  
+  .hero-image-card img {
+    height: 580px;
+  }
+  
+  .container {
+    max-width: 1320px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   2. DESKTOPS & LAPTOPS (992px to 1199px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 1199.98px) {
+  .hero-main-title {
+    font-size: 4.2rem;
+  }
+  
+  .section-title {
+    font-size: 2.35rem;
+  }
+  
+  .hero-image-card img {
+    height: 460px;
+  }
+  
+  .floating-badge-1 {
+    left: -10px;
+  }
+  
+  .floating-badge-2 {
+    right: -10px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   3. TABLETS & SMALL LAPTOPS (768px to 991px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 991.98px) {
+  .section-padding {
+    padding: 4.5rem 0;
+  }
+  
+  .custom-navbar {
+    background-color: var(--primary-color) !important;
+    padding: 0.85rem 0;
+  }
+  
+  .custom-navbar .navbar-brand {
+    color: var(--white-color) !important;
+  }
+  
+  .custom-navbar .nav-link {
+    color: var(--white-color) !important;
+    padding: 0.75rem 1rem !important;
+  }
+  
+  .navbar-collapse {
+    background-color: var(--primary-dark);
+    padding: 1.5rem;
+    border-radius: var(--radius-md);
+    margin-top: 1rem;
+    box-shadow: var(--shadow-lg);
+  }
+  
+  /* Hero Section Stacking */
+  .hero-section {
+    padding-top: 7rem;
+    padding-bottom: 4rem;
+    text-align: center;
+  }
+  
+  .hero-typing-container {
+    justify-content: center;
+  }
+  
+  .hero-description {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .hero-buttons {
+    justify-content: center;
+  }
+  
+  .hero-image-wrapper {
+    margin-top: 3.5rem;
+    max-width: 420px;
+  }
+  
+  .hero-contact-card {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+    margin-top: 1.5rem;
+  }
+  
+  /* Timeline Adjustments */
+  .timeline-wrapper {
+    padding-left: 2rem;
+  }
+  
+  .timeline-wrapper::before {
+    left: 10px;
+  }
+  
+  .timeline-dot {
+    left: -2rem;
+    width: 28px;
+    height: 28px;
+    font-size: 0.7rem;
+  }
+  
+  /* Carousel Controls */
+  .carousel-control-prev { left: -10px; }
+  .carousel-control-next { right: -10px; }
+}
+
+/* --------------------------------------------------------------------------
+   4. MOBILE PHONES (576px to 767px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 767.98px) {
+  .hero-main-title {
+    font-size: 3.2rem;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+  }
+  
+  .hero-image-card img {
+    height: 380px;
+  }
+  
+  .floating-badge {
+    padding: 0.4rem 0.85rem;
+    font-size: 0.75rem;
+  }
+  
+  .floating-badge-1 {
+    top: 5%;
+    left: 0px;
+  }
+  
+  .floating-badge-2 {
+    bottom: 5%;
+    right: 0px;
+  }
+  
+  .about-img-box img {
+    height: 360px;
+  }
+  
+  .stat-number {
+    font-size: 2.75rem;
+  }
+  
+  .testimonial-card {
+    padding: 2rem 1.5rem;
+  }
+  
+  .testimonial-text {
+    font-size: 1rem;
+  }
+  
+  .contact-form-card {
+    padding: 1.75rem;
+  }
+  
+  /* Buttons Touch Target Minimum Height */
+  .btn-custom-primary,
+  .btn-custom-accent,
+  .btn-custom-orange,
+  .btn-custom-outline {
+    min-height: 48px;
+    padding: 0.75rem 1.5rem;
+  }
+  
+  .portfolio-filters {
+    gap: 0.5rem;
+  }
+  
+  .filter-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.825rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   5. SMALL MOBILE PHONES (< 576px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 575.98px) {
+  .hero-main-title {
+    font-size: 2.5rem;
+  }
+  
+  .outline-text {
+    -webkit-text-stroke: 1px var(--primary-color);
+  }
+  
+  .hero-subtitle-badge {
+    font-size: 0.8rem;
+    padding: 0.35rem 0.85rem;
+  }
+  
+  .hero-buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .hero-buttons .btn {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .hero-image-card img {
+    height: 320px;
+  }
+  
+  .section-padding {
+    padding: 3.5rem 0;
+  }
+  
+  .info-card {
+    padding: 1rem;
+  }
+  
+  .stat-card {
+    padding: 1rem 0.5rem;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    display: none;
+  }
+  
+  #back-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 42px;
+    height: 42px;
+    font-size: 1.1rem;
+  }
+}
