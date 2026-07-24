@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌐 Navamani Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/596f008d-6f7d-4df3-8685-bb876f920dc4
+🔗 https://bknavamani.github.io/PORTFOLIO-NAVAMANI/
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 📸 Preview
 
+![Portfolio Preview](images images/1.PORTFOLIO HERO.png images/2.PORTFOLIO ABOUT.png images/3.PORTFOLIO ABOUTT.png images/4.PORTFOLIO EDUCATION.png images/5.PORTFOLIO EXPERIENCE.png images/6.PORTFOLIO SKILLS.png images/7.PORTFOLIO INTEREST.png images/8.PORTFOLIO PROJECT.png images/9.PORTFOLIO PROJECTT.png images/10.PORTFOLIO CONTACT.png images/11.PORTFOLIO FOOTER.png)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ✨ Features
+
+- Responsive Design
+- Modern UI
+- About Me
+- Skills
+- Projects
+- Contact Form
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📞 Contact
+
+**Navamani**
+
+📧 your-email@example.com
+
+📱 +91 90472 15275
+
+🔗 GitHub: https://github.com/BKNavamani
