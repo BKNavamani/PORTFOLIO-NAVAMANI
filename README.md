@@ -10,7 +10,40 @@ Welcome to my personal portfolio website.
 
 ## 📸 Preview
 
-![Portfolio Preview](images images/1.PORTFOLIO HERO.png images/2.PORTFOLIO ABOUT.png images/3.PORTFOLIO ABOUTT.png images/4.PORTFOLIO EDUCATION.png images/5.PORTFOLIO EXPERIENCE.png images/6.PORTFOLIO SKILLS.png images/7.PORTFOLIO INTEREST.png images/8.PORTFOLIO PROJECT.png images/9.PORTFOLIO PROJECTT.png images/10.PORTFOLIO CONTACT.png images/11.PORTFOLIO FOOTER.png)
+## 📸 Preview
+
+### Hero
+![Hero](images/1.PORTFOLIO HERO.png)
+
+### About
+![About](images/2.PORTFOLIO ABOUT.png)
+
+### About (More)
+![About 2](images/3.PORTFOLIO ABOUTT.png)
+
+### Education
+![Education](images/4.PORTFOLIO EDUCATION.png)
+
+### Experience
+![Experience](images/5.PORTFOLIO EXPERIENCE.png)
+
+### Skills
+![Skills](images/6.PORTFOLIO SKILLS.png)
+
+### Interests
+![Interests](images/7.PORTFOLIO INTEREST.png)
+
+### Projects
+![Projects](images/8.PORTFOLIO PROJECT.png)
+
+### More Projects
+![Projects 2](images/9.PORTFOLIO PROJECTT.png)
+
+### Contact
+![Contact](images/10.PORTFOLIO CONTACT.png)
+
+### Footer
+![Footer](images/11.PORTFOLIO FOOTER.png)
 
 ---
 
@@ -37,7 +70,7 @@ Welcome to my personal portfolio website.
 
 **Navamani**
 
-📧 your-email@example.com
+📧 navamanib01@gmail.com
 
 📱 +91 90472 15275
 
