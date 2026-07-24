@@ -10,10 +10,8 @@ Welcome to my personal portfolio website.
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ### Hero
-![Hero](images/1.PORTFOLIO HERO.png)
+[Hero](images/1.PORTFOLIO HERO.png)
 
 ### About
 ![About](images/2.PORTFOLIO ABOUT.png)
