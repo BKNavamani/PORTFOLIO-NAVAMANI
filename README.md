@@ -14,34 +14,34 @@ Welcome to my personal portfolio website.
 ![Hero](images/1.PORTFOLIO%20HERO.png)
 
 ### About
-![About](images/2.PORTFOLIO ABOUT.png)
+![About](images/2.PORTFOLIO%20ABOUT.png)
 
 ### About (More)
-![About 2](images/3.PORTFOLIO ABOUTT.png)
+![About 2](images/3.PORTFOLIO%20ABOUTT.png)
 
 ### Education
-![Education](images/4.PORTFOLIO EDUCATION.png)
+![Education](images/4.PORTFOLIO%20EDUCATION.png)
 
 ### Experience
-![Experience](images/5.PORTFOLIO EXPERIENCE.png)
+![Experience](images/5.PORTFOLIO%20EXPERIENCE.png)
 
 ### Skills
-![Skills](images/6.PORTFOLIO SKILLS.png)
+![Skills](images/6.PORTFOLIO%20SKILLS.png)
 
 ### Interests
-![Interests](images/7.PORTFOLIO INTEREST.png)
+![Interests](images/7.PORTFOLIO%20INTEREST.png)
 
 ### Projects
-![Projects](images/8.PORTFOLIO PROJECT.png)
+![Projects](images/8.PORTFOLIO%20PROJECT.png)
 
 ### More Projects
-![Projects 2](images/9.PORTFOLIO PROJECTT.png)
+![Projects 2](images/9.PORTFOLIO%20PROJECTT.png)
 
 ### Contact
-![Contact](images/10.PORTFOLIO CONTACT.png)
+![Contact](images/10.PORTFOLIO%20CONTACT.png)
 
 ### Footer
-![Footer](images/11.PORTFOLIO FOOTER.png)
+![Footer](images/11.PORTFOLIO%20FOOTER.png)
 
 ---
 
