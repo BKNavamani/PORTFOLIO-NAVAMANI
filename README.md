@@ -11,7 +11,7 @@ Welcome to my personal portfolio website.
 ## 📸 Preview
 
 ### Hero
-[Hero](images/1.PORTFOLIO HERO.png)
+![Hero](images/1.PORTFOLIO%20HERO.png)
 
 ### About
 ![About](images/2.PORTFOLIO ABOUT.png)
